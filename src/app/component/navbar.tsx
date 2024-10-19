@@ -17,16 +17,16 @@ function Navbar() {
         <div>
           <ul className="flex gap-3 text-black font-medium">
             <li className="underline underline-offset-4">
-              <Link href={"#"}>Home</Link>
+              <Link href={"/"}>Home</Link>
             </li>
             <li>
-              <Link href={"#"}>About us</Link>
+              <Link href={"/about"}>About us</Link>
             </li>
             <li>
-              <Link href={"#"}>Our Products</Link>
+              <Link href={"/product"}>Our Products</Link>
             </li>
             <li>
-              <Link href={"#"}>Contact Us</Link>
+              <Link href={"/contact"}>Contact Us</Link>
             </li>
           </ul>
         </div>

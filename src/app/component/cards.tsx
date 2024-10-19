@@ -45,7 +45,7 @@ function Cards() {
           </div>
         </div>
         {/* Card 3 */}
-        <div className="w-full lg:w-[25%] md:w-[75%] sm:w-full h-35 flex items-center bg-[#b7e6a3] hover:bg-white rounded border transition-all duration-300 ease-in-out">
+        <div className="w-full lg:w-[25%] md:w-[75%] sm:w-full h-40 flex items-center bg-[#b7e6a3] hover:bg-white rounded border transition-all duration-300 ease-in-out">
           <Image
             className="rounded-full mt-[-65px]"
             src="/assets/indoor.png"
