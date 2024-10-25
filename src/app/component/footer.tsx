@@ -1,4 +1,4 @@
- /* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React from "react";
 
 function Footer() {
@@ -15,19 +15,18 @@ function Footer() {
         <h6 className="hover:text-white">Payment Policy</h6>
         <h6 className="hover:text-white">Order Cancellation Policy</h6>
         <h6 className="hover:text-white">Business Name</h6>
-        </div>
-        <br />
-        <div className="flex flex-wrap justify-center  gap-2 w-full text-center">
-          <h6 className="hover:text-white">Customer Service</h6>
-          <h6 className="hover:text-white">Email: abc@gmail.com</h6>
-          <h6 className="hover:text-white">
-            WhatsApp Helpline: +92 322 33 38733
-          </h6>
-          <hr className="w-[100%] border-t border-gray-600 " />
-          <h6 className="pb-4 hover:text-white text-center">
-            © 2024 PlantBuddy.pk
-          </h6>
-      
+      </div>
+      <br />
+      <div className="flex flex-wrap justify-center  gap-2 w-full text-center">
+        <h6 className="hover:text-white">Customer Service</h6>
+        <h6 className="hover:text-white">Email: abc@gmail.com</h6>
+        <h6 className="hover:text-white">
+          WhatsApp Helpline: +92 322 33 38733
+        </h6>
+        <hr className="w-[100%] border-t border-gray-600 " />
+        <h6 className="pb-4 hover:text-white text-center">
+          © 2024 PlantBuddy.pk
+        </h6>
       </div>
     </footer>
   );

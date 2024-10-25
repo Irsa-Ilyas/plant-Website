@@ -1,4 +1,4 @@
- /* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import Image from "next/image";
 import React from "react";
 import Link from "next/link";
@@ -15,7 +15,7 @@ function Navbar() {
           <p className="font-bold text-sm ml-[-17px]">Plant Buddy</p>
         </div>
         <div>
-          <ul className="flex gap-3 text-black font-medium">
+          <ul className="flex gap-4 text-black font-medium">
             <li className="underline underline-offset-4">
               <Link href={"/"}>Home</Link>
             </li>
